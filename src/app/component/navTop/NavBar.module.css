@@ -1,0 +1,22 @@
+.bg {
+    background-color: #cad4ff;
+}
+
+.searchbox {
+    background: #fff;
+    padding: 6px;
+    border-radius: 24px;
+
+}
+.searchbox input:focus{
+    border: none;
+    outline: none;
+}
+.srearchbtn {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 100%;
+    border: none;
+    background-color: #526ad0;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.bgImg {
+    width: 100%;
+    height: auto;
+}
+
+.head {
+    position: absolute;
+    font-size: 60px;
+    line-height: 25px;
+    color: #acbcff;
+    font-weight: bold;
+    font-family: "Sarun Pro";
+    text-align: left;
+    top: 100px;
+    left:200px;
+}
+.subhead {
+    position: absolute;
+    color: #fff;
+    top: 200px;
+    left: 200px;
+}
+

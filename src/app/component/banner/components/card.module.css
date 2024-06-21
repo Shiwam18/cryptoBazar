@@ -1,0 +1,12 @@
+.arrow {
+    rotate: 180deg;
+    width: 15px;
+    height: auto;
+}
+.Bg {
+    background-color: #ffff;
+    padding: 20px 40px;
+    position: relative;
+    bottom: 170px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
